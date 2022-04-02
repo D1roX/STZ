@@ -1,8 +1,11 @@
 Файлы для обучения на колабе для 1-5 попыток (в том числе датасет): https://drive.google.com/drive/folders/10l_GI_3azhkBIWFCjIiIhtX55B4BBvCc
+
 Блокнот 1-5 попыток увы не сохранился, но в целом там был использован макет из ТЗ, ниче не меняли, кроме того, что подгружается с гугл диска
 
+---------------------------------------------------------------------------------------------------------
 
 Файлы для обучения на колабе для 6-9 попыток (в том числе датасет): https://drive.google.com/drive/folders/1TnaEPnDIJ4qdBrrpoBPrA-q33YDOOA2V?usp=sharing
+
 Блокнот 6-9 попыток: https://colab.research.google.com/drive/1mVWN4tcyZ-d6JHmKqs_gwQeU6jh8_W5K?usp=sharing
 
                                             БЛОК "Ниче не работает"
